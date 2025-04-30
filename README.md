@@ -1,3 +1,1 @@
-# clinic-outcomes
-# clinic-outcomes
-# clinic-outcomes
+# clinical data cotcome representation
